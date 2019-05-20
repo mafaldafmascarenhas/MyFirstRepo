@@ -6,3 +6,5 @@ add a line of text
 editor comments on the file
 
 add 3rd line of text
+
+add 4th line of text
